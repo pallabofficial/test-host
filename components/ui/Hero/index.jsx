@@ -15,7 +15,7 @@ const Hero = () => {
                 <div className="custom-screen items-center gap-12 text-gray-600 flex flex-col sm:justify-center sm:text-center xl:flex-row xl:text-left">
                     <div className='flex-none space-y-5 max-w-4xl xl:max-w-2xl'>
                         <h1 className="text-4xl text-white font-extrabold sm:text-6xl">
-                            Mastering computer science fundamentals
+                            Motherfucking computer science fundamentals
                         </h1>
                         <p className="text-gray-300 max-w-xl sm:mx-auto xl:mx-0">
                             The IO Academy is an online learning platform that provides interactive courses and projects in Computer Science to high schoolers and adults of all backgrounds.
